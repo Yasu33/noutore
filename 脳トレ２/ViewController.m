@@ -71,10 +71,6 @@
     perfect.alpha=0.0;
     retry.alpha=0.0;
     
-
-    
-    
-    
 }
 
 
