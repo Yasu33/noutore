@@ -1,0 +1,571 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1C744DA919ED351C00D9A492 /* en.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9419ED351C00D9A492 /* en.png */; };
+		1C744DAA19ED351C00D9A492 /* PERFECT.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9519ED351C00D9A492 /* PERFECT.png */; };
+		1C744DAB19ED351C00D9A492 /* PERFECT画像.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9619ED351C00D9A492 /* PERFECT画像.png */; };
+		1C744DAC19ED351C00D9A492 /* RETRY.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9719ED351C00D9A492 /* RETRY.png */; };
+		1C744DAD19ED351C00D9A492 /* ボタンデザイン.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9819ED351C00D9A492 /* ボタンデザイン.png */; };
+		1C744DAE19ED351C00D9A492 /* ボタンデザイン２.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9919ED351C00D9A492 /* ボタンデザイン２.png */; };
+		1C744DAF19ED351C00D9A492 /* ボタン１.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9A19ED351C00D9A492 /* ボタン１.png */; };
+		1C744DB019ED351C00D9A492 /* ボタン１０.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9B19ED351C00D9A492 /* ボタン１０.png */; };
+		1C744DB119ED351C00D9A492 /* ボタン１１.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9C19ED351C00D9A492 /* ボタン１１.png */; };
+		1C744DB219ED351C00D9A492 /* ボタン１２.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9D19ED351C00D9A492 /* ボタン１２.png */; };
+		1C744DB319ED351C00D9A492 /* ボタン４.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9E19ED351C00D9A492 /* ボタン４.png */; };
+		1C744DB419ED351C00D9A492 /* ボタン５.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744D9F19ED351C00D9A492 /* ボタン５.png */; };
+		1C744DB519ED351C00D9A492 /* ボタン６.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744DA019ED351C00D9A492 /* ボタン６.png */; };
+		1C744DB619ED351C00D9A492 /* ボタン７.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744DA119ED351C00D9A492 /* ボタン７.png */; };
+		1C744DB719ED351C00D9A492 /* ボタン８.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744DA219ED351C00D9A492 /* ボタン８.png */; };
+		1C744DB819ED351C00D9A492 /* ボタン９.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744DA319ED351C00D9A492 /* ボタン９.png */; };
+		1C744DB919ED351C00D9A492 /* 壁紙.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C744DA419ED351C00D9A492 /* 壁紙.jpg */; };
+		1C744DBA19ED351C00D9A492 /* 壁紙２.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744DA519ED351C00D9A492 /* 壁紙２.png */; };
+		1C744DBB19ED351C00D9A492 /* 壁紙３.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744DA619ED351C00D9A492 /* 壁紙３.png */; };
+		1C744DBC19ED351C00D9A492 /* 壁紙４.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744DA719ED351C00D9A492 /* 壁紙４.png */; };
+		1C744DBD19ED351C00D9A492 /* 壁紙５.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C744DA819ED351C00D9A492 /* 壁紙５.png */; };
+		1CA4A14F1990FAB500B1332D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CA4A14E1990FAB500B1332D /* Foundation.framework */; };
+		1CA4A1511990FAB500B1332D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CA4A1501990FAB500B1332D /* CoreGraphics.framework */; };
+		1CA4A1531990FAB500B1332D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CA4A1521990FAB500B1332D /* UIKit.framework */; };
+		1CA4A1591990FAB500B1332D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1CA4A1571990FAB500B1332D /* InfoPlist.strings */; };
+		1CA4A15B1990FAB500B1332D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CA4A15A1990FAB500B1332D /* main.m */; };
+		1CA4A15F1990FAB500B1332D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CA4A15E1990FAB500B1332D /* AppDelegate.m */; };
+		1CA4A1621990FAB500B1332D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CA4A1601990FAB500B1332D /* Main.storyboard */; };
+		1CA4A1651990FAB500B1332D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CA4A1641990FAB500B1332D /* ViewController.m */; };
+		1CA4A1671990FAB500B1332D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CA4A1661990FAB500B1332D /* Images.xcassets */; };
+		1CA4A16E1990FAB500B1332D /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CA4A16D1990FAB500B1332D /* XCTest.framework */; };
+		1CA4A16F1990FAB500B1332D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CA4A14E1990FAB500B1332D /* Foundation.framework */; };
+		1CA4A1701990FAB500B1332D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CA4A1521990FAB500B1332D /* UIKit.framework */; };
+		1CA4A1781990FAB500B1332D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1CA4A1761990FAB500B1332D /* InfoPlist.strings */; };
+		1CA4A17A1990FAB500B1332D /* ____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CA4A1791990FAB500B1332D /* ____Tests.m */; };
+		1CF984D71992787D00C37726 /* View.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF984D61992787D00C37726 /* View.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1CA4A1711990FAB500B1332D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1CA4A1431990FAB500B1332D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1CA4A14A1990FAB500B1332D;
+			remoteInfo = "脳トレ２";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1C744D9419ED351C00D9A492 /* en.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = en.png; sourceTree = "<group>"; };
+		1C744D9519ED351C00D9A492 /* PERFECT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PERFECT.png; sourceTree = "<group>"; };
+		1C744D9619ED351C00D9A492 /* PERFECT画像.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PERFECT画像.png"; sourceTree = "<group>"; };
+		1C744D9719ED351C00D9A492 /* RETRY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RETRY.png; sourceTree = "<group>"; };
+		1C744D9819ED351C00D9A492 /* ボタンデザイン.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタンデザイン.png"; sourceTree = "<group>"; };
+		1C744D9919ED351C00D9A492 /* ボタンデザイン２.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタンデザイン２.png"; sourceTree = "<group>"; };
+		1C744D9A19ED351C00D9A492 /* ボタン１.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタン１.png"; sourceTree = "<group>"; };
+		1C744D9B19ED351C00D9A492 /* ボタン１０.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタン１０.png"; sourceTree = "<group>"; };
+		1C744D9C19ED351C00D9A492 /* ボタン１１.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタン１１.png"; sourceTree = "<group>"; };
+		1C744D9D19ED351C00D9A492 /* ボタン１２.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタン１２.png"; sourceTree = "<group>"; };
+		1C744D9E19ED351C00D9A492 /* ボタン４.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタン４.png"; sourceTree = "<group>"; };
+		1C744D9F19ED351C00D9A492 /* ボタン５.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタン５.png"; sourceTree = "<group>"; };
+		1C744DA019ED351C00D9A492 /* ボタン６.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタン６.png"; sourceTree = "<group>"; };
+		1C744DA119ED351C00D9A492 /* ボタン７.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタン７.png"; sourceTree = "<group>"; };
+		1C744DA219ED351C00D9A492 /* ボタン８.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタン８.png"; sourceTree = "<group>"; };
+		1C744DA319ED351C00D9A492 /* ボタン９.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタン９.png"; sourceTree = "<group>"; };
+		1C744DA419ED351C00D9A492 /* 壁紙.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "壁紙.jpg"; sourceTree = "<group>"; };
+		1C744DA519ED351C00D9A492 /* 壁紙２.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "壁紙２.png"; sourceTree = "<group>"; };
+		1C744DA619ED351C00D9A492 /* 壁紙３.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "壁紙３.png"; sourceTree = "<group>"; };
+		1C744DA719ED351C00D9A492 /* 壁紙４.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "壁紙４.png"; sourceTree = "<group>"; };
+		1C744DA819ED351C00D9A492 /* 壁紙５.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "壁紙５.png"; sourceTree = "<group>"; };
+		1CA4A14B1990FAB500B1332D /* 脳トレ２.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "脳トレ２.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1CA4A14E1990FAB500B1332D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1CA4A1501990FAB500B1332D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1CA4A1521990FAB500B1332D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		1CA4A1561990FAB500B1332D /* 脳トレ２-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "脳トレ２-Info.plist"; sourceTree = "<group>"; };
+		1CA4A1581990FAB500B1332D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1CA4A15A1990FAB500B1332D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1CA4A15C1990FAB500B1332D /* 脳トレ２-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "脳トレ２-Prefix.pch"; sourceTree = "<group>"; };
+		1CA4A15D1990FAB500B1332D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		1CA4A15E1990FAB500B1332D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		1CA4A1611990FAB500B1332D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1CA4A1641990FAB500B1332D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		1CA4A1661990FAB500B1332D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		1CA4A16C1990FAB500B1332D /* 脳トレ２Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "脳トレ２Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1CA4A16D1990FAB500B1332D /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		1CA4A1751990FAB500B1332D /* 脳トレ２Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "脳トレ２Tests-Info.plist"; sourceTree = "<group>"; };
+		1CA4A1771990FAB500B1332D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1CA4A1791990FAB500B1332D /* ____Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "____Tests.m"; sourceTree = "<group>"; };
+		1CF3A0131993588A00EB8906 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		1CF984D51992787D00C37726 /* View.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View.h; sourceTree = "<group>"; };
+		1CF984D61992787D00C37726 /* View.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1CA4A1481990FAB500B1332D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CA4A1511990FAB500B1332D /* CoreGraphics.framework in Frameworks */,
+				1CA4A1531990FAB500B1332D /* UIKit.framework in Frameworks */,
+				1CA4A14F1990FAB500B1332D /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1CA4A1691990FAB500B1332D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CA4A16E1990FAB500B1332D /* XCTest.framework in Frameworks */,
+				1CA4A1701990FAB500B1332D /* UIKit.framework in Frameworks */,
+				1CA4A16F1990FAB500B1332D /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1C744D9319ED351C00D9A492 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				1C744D9419ED351C00D9A492 /* en.png */,
+				1C744D9519ED351C00D9A492 /* PERFECT.png */,
+				1C744D9619ED351C00D9A492 /* PERFECT画像.png */,
+				1C744D9719ED351C00D9A492 /* RETRY.png */,
+				1C744D9819ED351C00D9A492 /* ボタンデザイン.png */,
+				1C744D9919ED351C00D9A492 /* ボタンデザイン２.png */,
+				1C744D9A19ED351C00D9A492 /* ボタン１.png */,
+				1C744D9B19ED351C00D9A492 /* ボタン１０.png */,
+				1C744D9C19ED351C00D9A492 /* ボタン１１.png */,
+				1C744D9D19ED351C00D9A492 /* ボタン１２.png */,
+				1C744D9E19ED351C00D9A492 /* ボタン４.png */,
+				1C744D9F19ED351C00D9A492 /* ボタン５.png */,
+				1C744DA019ED351C00D9A492 /* ボタン６.png */,
+				1C744DA119ED351C00D9A492 /* ボタン７.png */,
+				1C744DA219ED351C00D9A492 /* ボタン８.png */,
+				1C744DA319ED351C00D9A492 /* ボタン９.png */,
+				1C744DA419ED351C00D9A492 /* 壁紙.jpg */,
+				1C744DA519ED351C00D9A492 /* 壁紙２.png */,
+				1C744DA619ED351C00D9A492 /* 壁紙３.png */,
+				1C744DA719ED351C00D9A492 /* 壁紙４.png */,
+				1C744DA819ED351C00D9A492 /* 壁紙５.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		1CA4A1421990FAB500B1332D = {
+			isa = PBXGroup;
+			children = (
+				1CA4A1541990FAB500B1332D /* 脳トレ２ */,
+				1CA4A1731990FAB500B1332D /* 脳トレ２Tests */,
+				1CA4A14D1990FAB500B1332D /* Frameworks */,
+				1CA4A14C1990FAB500B1332D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1CA4A14C1990FAB500B1332D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1CA4A14B1990FAB500B1332D /* 脳トレ２.app */,
+				1CA4A16C1990FAB500B1332D /* 脳トレ２Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1CA4A14D1990FAB500B1332D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1CA4A14E1990FAB500B1332D /* Foundation.framework */,
+				1CA4A1501990FAB500B1332D /* CoreGraphics.framework */,
+				1CA4A1521990FAB500B1332D /* UIKit.framework */,
+				1CA4A16D1990FAB500B1332D /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1CA4A1541990FAB500B1332D /* 脳トレ２ */ = {
+			isa = PBXGroup;
+			children = (
+				1C744D9319ED351C00D9A492 /* images */,
+				1CA4A15D1990FAB500B1332D /* AppDelegate.h */,
+				1CA4A15E1990FAB500B1332D /* AppDelegate.m */,
+				1CA4A1601990FAB500B1332D /* Main.storyboard */,
+				1CF984D51992787D00C37726 /* View.h */,
+				1CF984D61992787D00C37726 /* View.m */,
+				1CF3A0131993588A00EB8906 /* ViewController.h */,
+				1CA4A1641990FAB500B1332D /* ViewController.m */,
+				1CA4A1661990FAB500B1332D /* Images.xcassets */,
+				1CA4A1551990FAB500B1332D /* Supporting Files */,
+			);
+			path = "脳トレ２";
+			sourceTree = "<group>";
+		};
+		1CA4A1551990FAB500B1332D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1CA4A1561990FAB500B1332D /* 脳トレ２-Info.plist */,
+				1CA4A1571990FAB500B1332D /* InfoPlist.strings */,
+				1CA4A15A1990FAB500B1332D /* main.m */,
+				1CA4A15C1990FAB500B1332D /* 脳トレ２-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1CA4A1731990FAB500B1332D /* 脳トレ２Tests */ = {
+			isa = PBXGroup;
+			children = (
+				1CA4A1791990FAB500B1332D /* ____Tests.m */,
+				1CA4A1741990FAB500B1332D /* Supporting Files */,
+			);
+			path = "脳トレ２Tests";
+			sourceTree = "<group>";
+		};
+		1CA4A1741990FAB500B1332D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1CA4A1751990FAB500B1332D /* 脳トレ２Tests-Info.plist */,
+				1CA4A1761990FAB500B1332D /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1CA4A14A1990FAB500B1332D /* 脳トレ２ */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1CA4A17D1990FAB500B1332D /* Build configuration list for PBXNativeTarget "脳トレ２" */;
+			buildPhases = (
+				1CA4A1471990FAB500B1332D /* Sources */,
+				1CA4A1481990FAB500B1332D /* Frameworks */,
+				1CA4A1491990FAB500B1332D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "脳トレ２";
+			productName = "脳トレ２";
+			productReference = 1CA4A14B1990FAB500B1332D /* 脳トレ２.app */;
+			productType = "com.apple.product-type.application";
+		};
+		1CA4A16B1990FAB500B1332D /* 脳トレ２Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1CA4A1801990FAB500B1332D /* Build configuration list for PBXNativeTarget "脳トレ２Tests" */;
+			buildPhases = (
+				1CA4A1681990FAB500B1332D /* Sources */,
+				1CA4A1691990FAB500B1332D /* Frameworks */,
+				1CA4A16A1990FAB500B1332D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1CA4A1721990FAB500B1332D /* PBXTargetDependency */,
+			);
+			name = "脳トレ２Tests";
+			productName = "脳トレ２Tests";
+			productReference = 1CA4A16C1990FAB500B1332D /* 脳トレ２Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1CA4A1431990FAB500B1332D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Emiko Namikawa";
+				TargetAttributes = {
+					1CA4A16B1990FAB500B1332D = {
+						TestTargetID = 1CA4A14A1990FAB500B1332D;
+					};
+				};
+			};
+			buildConfigurationList = 1CA4A1461990FAB500B1332D /* Build configuration list for PBXProject "脳トレ２" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1CA4A1421990FAB500B1332D;
+			productRefGroup = 1CA4A14C1990FAB500B1332D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1CA4A14A1990FAB500B1332D /* 脳トレ２ */,
+				1CA4A16B1990FAB500B1332D /* 脳トレ２Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1CA4A1491990FAB500B1332D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1C744DBA19ED351C00D9A492 /* 壁紙２.png in Resources */,
+				1C744DBC19ED351C00D9A492 /* 壁紙４.png in Resources */,
+				1C744DB619ED351C00D9A492 /* ボタン７.png in Resources */,
+				1C744DB319ED351C00D9A492 /* ボタン４.png in Resources */,
+				1C744DAA19ED351C00D9A492 /* PERFECT.png in Resources */,
+				1C744DB119ED351C00D9A492 /* ボタン１１.png in Resources */,
+				1C744DB019ED351C00D9A492 /* ボタン１０.png in Resources */,
+				1C744DAC19ED351C00D9A492 /* RETRY.png in Resources */,
+				1C744DB419ED351C00D9A492 /* ボタン５.png in Resources */,
+				1C744DBD19ED351C00D9A492 /* 壁紙５.png in Resources */,
+				1C744DAB19ED351C00D9A492 /* PERFECT画像.png in Resources */,
+				1C744DAF19ED351C00D9A492 /* ボタン１.png in Resources */,
+				1C744DB519ED351C00D9A492 /* ボタン６.png in Resources */,
+				1C744DB819ED351C00D9A492 /* ボタン９.png in Resources */,
+				1C744DAE19ED351C00D9A492 /* ボタンデザイン２.png in Resources */,
+				1C744DBB19ED351C00D9A492 /* 壁紙３.png in Resources */,
+				1C744DAD19ED351C00D9A492 /* ボタンデザイン.png in Resources */,
+				1C744DA919ED351C00D9A492 /* en.png in Resources */,
+				1C744DB219ED351C00D9A492 /* ボタン１２.png in Resources */,
+				1C744DB919ED351C00D9A492 /* 壁紙.jpg in Resources */,
+				1C744DB719ED351C00D9A492 /* ボタン８.png in Resources */,
+				1CA4A1671990FAB500B1332D /* Images.xcassets in Resources */,
+				1CA4A1591990FAB500B1332D /* InfoPlist.strings in Resources */,
+				1CA4A1621990FAB500B1332D /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1CA4A16A1990FAB500B1332D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CA4A1781990FAB500B1332D /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1CA4A1471990FAB500B1332D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CF984D71992787D00C37726 /* View.m in Sources */,
+				1CA4A1651990FAB500B1332D /* ViewController.m in Sources */,
+				1CA4A15F1990FAB500B1332D /* AppDelegate.m in Sources */,
+				1CA4A15B1990FAB500B1332D /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1CA4A1681990FAB500B1332D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CA4A17A1990FAB500B1332D /* ____Tests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1CA4A1721990FAB500B1332D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1CA4A14A1990FAB500B1332D /* 脳トレ２ */;
+			targetProxy = 1CA4A1711990FAB500B1332D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		1CA4A1571990FAB500B1332D /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1CA4A1581990FAB500B1332D /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1CA4A1601990FAB500B1332D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1CA4A1611990FAB500B1332D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		1CA4A1761990FAB500B1332D /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1CA4A1771990FAB500B1332D /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1CA4A17B1990FAB500B1332D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1CA4A17C1990FAB500B1332D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1CA4A17E1990FAB500B1332D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "脳トレ２/脳トレ２-Prefix.pch";
+				INFOPLIST_FILE = "脳トレ２/脳トレ２-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		1CA4A17F1990FAB500B1332D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "脳トレ２/脳トレ２-Prefix.pch";
+				INFOPLIST_FILE = "脳トレ２/脳トレ２-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		1CA4A1811990FAB500B1332D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/脳トレ２.app/脳トレ２";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "脳トレ２/脳トレ２-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "脳トレ２Tests/脳トレ２Tests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		1CA4A1821990FAB500B1332D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/脳トレ２.app/脳トレ２";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "脳トレ２/脳トレ２-Prefix.pch";
+				INFOPLIST_FILE = "脳トレ２Tests/脳トレ２Tests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1CA4A1461990FAB500B1332D /* Build configuration list for PBXProject "脳トレ２" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1CA4A17B1990FAB500B1332D /* Debug */,
+				1CA4A17C1990FAB500B1332D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1CA4A17D1990FAB500B1332D /* Build configuration list for PBXNativeTarget "脳トレ２" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1CA4A17E1990FAB500B1332D /* Debug */,
+				1CA4A17F1990FAB500B1332D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1CA4A1801990FAB500B1332D /* Build configuration list for PBXNativeTarget "脳トレ２Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1CA4A1811990FAB500B1332D /* Debug */,
+				1CA4A1821990FAB500B1332D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1CA4A1431990FAB500B1332D /* Project object */;
+}
